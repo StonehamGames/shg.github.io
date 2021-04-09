@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b29749c9fe59c35363f0fec872118869",
+    "revision": "2043a73122ca12483f6655a0889ec094",
     "url": "/index.html"
   },
   {
-    "revision": "fc5e45f12e1c6aaacefb",
+    "revision": "3821b28d7fbc9a978a76",
     "url": "/static/css/main.fedf132f.chunk.css"
   },
   {
-    "revision": "eff3f66e665e59d5f48a",
-    "url": "/static/js/2.3cd0539c.chunk.js"
+    "revision": "bf5c677c0991b4e611ed",
+    "url": "/static/js/2.505bf7c9.chunk.js"
   },
   {
     "revision": "8dbc9bd92b344a5deca62eeacc09fc2d",
-    "url": "/static/js/2.3cd0539c.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.505bf7c9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fc5e45f12e1c6aaacefb",
-    "url": "/static/js/main.29bd1218.chunk.js"
+    "revision": "3821b28d7fbc9a978a76",
+    "url": "/static/js/main.48eff7df.chunk.js"
   },
   {
     "revision": "1974cf578d31ec465081",
@@ -62,10 +62,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9813593cc577a319a2201342ef0fb237",
     "url": "/static/media/cynthia-del-rio.9813593c.jpg"
-  },
-  {
-    "revision": "e0508cc923eb0b5e68ca6783c53d0f1d",
-    "url": "/static/media/kendall.e0508cc9.jpg"
   },
   {
     "revision": "df8fd3efcd662b64b44de07f351c838b",
